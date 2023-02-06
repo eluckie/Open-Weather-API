@@ -1,21 +1,35 @@
-# (Application Name)
+# Open Weather API
 
-#### (Brief Description of Application)
+#### Making API Calls with JavaScript
 
 #### By Eliot Gronstal
 
 ## Technologies Used
 
-* _List all_
-* _the major technologies_
-* _you used in your project_
-* _here_
+* Javascript
+* APIs
+* Github
+* Wepback
+* Babel
 
 ## Description
 
+Making API Calls with JavaScript - Made During Week 6 at Epicodus Coding School
+
 ## Setup/Installation Requirements
 
-* _This is a great place_
+* Anyone who wants to clone and use our application can simply create their own local .env file with their own API key. 
+
+Next, let's create a .env file in the root directory of our project where we can store our sensitive variables:
+
+Next, we'll use a webpack plugin called dotenv-webpack to make our environmental variables available inside our application:
+
+Once again, when you push projects to GitHub that require API keys, make sure to include instructions in the README so that other users can clone your project and use their own API keys to see what you've built. That means including all steps for getting a key — from the link to sign up for an account to any steps to getting an API key to the name of the API key variables that should be added to the .env file. Including accurate instructions for getting and setting up an API key is a requirement for this section's independent project.
+
+(Rewrite this and edit so you can copy/paste on Friday.)
+
+
+
 * _to list setup instructions_
 * _in a simple_
 * _easy-to-understand_
@@ -25,11 +39,11 @@
 
 ## Known Bugs
 
-* _Any known issues_
+* None known yet
 * Please reach out to Eliot with any questions or concerns at: eliot.lauren@gmail.com
 
 ## License
 
-_{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}_
+MIT
 
 Copyright (c) 2023 Eliot Gronstal
